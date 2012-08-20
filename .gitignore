@@ -68,5 +68,8 @@ quickactivate
 # Sphinx
 docs/_build
 
-#Tox
+# Tox
 .tox
+
+# Bundler
+.bundle

@@ -1,0 +1,17 @@
+requirements:
+  - flask
+  - flask-command
+  - flask-mongokit
+  - requests
+
+---
+profile: development
+
+requirements:
+  - nose
+  - ipython
+  - mock
+  - testkit
+
+plugins:
+  - virtstrap-ruby-bundler
